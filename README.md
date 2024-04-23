@@ -1,6 +1,6 @@
 ### Hi there, I'm Shankara Kumaran S 👋
 
-<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=343deb&size=24&lines=Hey+there,+I'm+Shankara+Kumaran+S;I'm+an+AI+Engineer.;An+AI+Developer+!.;Researcher.;" alt="Typing SVG" >
+<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=343deb&size=24&lines=Hey+there,+I'm+Shankara+Kumaran+S.;I'm+an+AI+Engineer.;An+AI+Developer+!.;Researcher.;Data Analyst.;" alt="Typing SVG" >
 
 <!--
 **SSK14031998/SSK14031998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
