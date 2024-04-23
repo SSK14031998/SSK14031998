@@ -14,3 +14,5 @@ Here are some ideas to get you started: --!>
 - 📫 How to reach me: shankarselvam1998@gmail.com<br>
 - 😄 Pronouns: he/him<br>
 - ⚡ Fun fact: I am an budding enthusiast.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu2646&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
