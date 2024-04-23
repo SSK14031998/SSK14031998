@@ -2,17 +2,15 @@
 
 <img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=343deb&size=24&lines=Hey+there,+I'm+Shankara+Kumaran+S;I'm+an+AI+Engineer.;AI+Developer+!.;Researcher.;" alt="Typing SVG" >
 
-<!--
-**SSK14031998/SSK14031998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<--**SSK14031998/SSK14031998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Data Science Projects
 - 🌱 I’m currently learning AI Engineer
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Julia and R
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
