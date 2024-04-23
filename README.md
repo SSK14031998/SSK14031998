@@ -6,11 +6,11 @@
 
 Here are some ideas to get you started: --!>
 
-- 🔭 I’m currently working on Data Science Projects
-- 🌱 I’m currently learning AI Engineer
-- 👯 I’m looking to collaborate on Object Detection Projects
-- 🤔 I’m looking for help with Julia and R
-- 💬 Ask me about Data Analysis
-- 📫 How to reach me: shankarselvam1998@gmail.com
-- 😄 Pronouns: he/him
+- 🔭 I’m currently working on Data Science Projects<br>
+- 🌱 I’m currently learning AI Engineer<br>
+- 👯 I’m looking to collaborate on Object Detection Projects<br>
+- 🤔 I’m looking for help with Julia and R<br>
+- 💬 Ask me about Data Analysis<br>
+- 📫 How to reach me: shankarselvam1998@gmail.com<br>
+- 😄 Pronouns: he/him<br>
 - ⚡ Fun fact: I am an budding enthusiast.
