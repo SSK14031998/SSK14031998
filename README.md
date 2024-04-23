@@ -1,3 +1,5 @@
+<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=24F7F4&size=24&lines=Hey+there,+I'm+Shankara+Kumaran+S;I'm+A+Software+Engineer.;Front-End+Developer.;An+Open-Source+Enthusiast+!.;" alt="Typing SVG" >
+
 ### Hi there, I'm Shankara Kumaran S 👋
 
 <!--
