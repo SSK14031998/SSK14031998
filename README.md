@@ -8,11 +8,9 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on Data Science Projects
 - 🌱 I’m currently learning AI Engineer
-- 👯 I’m looking to collaborate on Julia and R
-<--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on Object Detection Projects
+- 🤔 I’m looking for help with Julia and R
+- 💬 Ask me about Data Analysis
+- 📫 How to reach me: shankarselvam1998@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am an budding enthusiast.
