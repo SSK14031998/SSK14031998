@@ -4,13 +4,13 @@
 
 <!-- <h2>  Hi there! 👋 I'm Shankara Kumaran.</h2> -->
 
-I'm a self-taught Full stack developer and Machine Leaning who is passionate about writing code, solving problems, building React and Angular Applications.
+I'm a self-taught AI Engineer and Machine Learning Enthusiast who is passionate about writing code, solving problems, developing Projects.
 
 <h3>  💻 &nbsp; More About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; I’m currently learning React, Javascript, Nodejs and Django.
-- 🌱 &nbsp; Always Learning more about React Native,Typescript and Functional Programming.
+- 🎓 &nbsp; I’m currently learning Python, Julia and R.
+- 🌱 &nbsp; Always Learning more about Object Detection Algorithms and Image Processing Techniques.
 - 👯 &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
 - 🎓 &nbsp; 2021 Goals: Master React, Complete Full Stack. Contribute to Open Source projects
 - ⚡ &nbsp; Fun fact: First solve the problem, then write the code :heart:.
