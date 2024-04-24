@@ -46,9 +46,6 @@ I'm a self-taught AI Engineer and Machine Learning Enthusiast who is passionate 
 <a href="mailto:shankarselvam1998@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shankarselvam1998@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="www.linkedin.com/in/s-shankara-kumaran-0501ba100"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-s-shankara%kumaran%20-blue?style=flat-square&logo=linkedin"></a>
 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/vishnu.priyan.1238)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+916369031601&text=Hi!)](https://api.whatsapp.com/send?phone=+916369031601&text=Hi!)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/)](https://twitter.com/vishnuj0204)
 
 </p>
 
@@ -59,4 +56,4 @@ I'm a self-taught AI Engineer and Machine Learning Enthusiast who is passionate 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu2646&" alt="vishnu2646" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssk14031998&" alt="ssk14031998" /></p>
