@@ -32,7 +32,7 @@ I'm a self-taught AI Engineer and Machine Learning Enthusiast who is passionate 
 ![](https://img.shields.io/badge/Julia-F7DF1E?style=for-the-badge&logo=julia&logoColor=black)
 ![](https://img.shields.io/badge/R-43853D?style=for-the-badge&logo=R&logoColor=white)
 ![](https://img.shields.io/badge/SQL-1572B6?style=for-the-badge&logo=SQL&logoColor=white)
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/Tableau-CC6699?style=for-the-badge&logo=Tableau&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
