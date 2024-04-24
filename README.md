@@ -38,6 +38,7 @@ I'm a self-taught AI Engineer and Machine Learning Enthusiast who is passionate 
 ![](https://img.shields.io/badge/Excel-20232A?style=for-the-badge&logo=msexcel&logoColor=61DAFB)
 ![](https://img.shields.io/badge/C-38B2AC?style=for-the-badge&logo=C&logoColor=white)
 ![](https://img.shields.io/badge/C++-563D7C?style=for-the-badge&logo=C++&logoColor=white)
+![](https://img.shields.io/badge/MATLAB-F7DF1E?style=for-the-badge&logo=MATLAB&logoColor=black)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
