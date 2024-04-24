@@ -38,15 +38,13 @@ I'm a self-taught AI Engineer and Machine Learning Enthusiast who is passionate 
 ![](https://img.shields.io/badge/Excel-20232A?style=for-the-badge&logo=msexcel&logoColor=61DAFB)
 ![](https://img.shields.io/badge/C-38B2AC?style=for-the-badge&logo=C&logoColor=white)
 ![](https://img.shields.io/badge/C++-563D7C?style=for-the-badge&logo=C++&logoColor=white)
-![](https://img.shields.io/badge/MATLAB-F7DF1E?style=for-the-badge&logo=MATLAB&logoColor=black)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
 <a href="mailto:shankarselvam1998@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shankarselvam1998@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/vishnu-priyan0206/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-vishnu%priyan%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/_code_br_eaker_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_code_br_eaker_-blue?style=flat-square&logo=instagram"></a>
+<a href="www.linkedin.com/in/s-shankara-kumaran-0501ba100"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-s-shankara%kumaran%20-blue?style=flat-square&logo=linkedin"></a>
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/vishnu.priyan.1238)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+916369031601&text=Hi!)](https://api.whatsapp.com/send?phone=+916369031601&text=Hi!)
