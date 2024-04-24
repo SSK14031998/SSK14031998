@@ -35,7 +35,7 @@ I'm a self-taught AI Engineer and Machine Learning Enthusiast who is passionate 
 ![](https://img.shields.io/badge/Tableau-CC6699?style=for-the-badge&logo=Tableau&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-404D59?style=for-the-badge)
-![](https://img.shields.io/badge/Excel-20232A?style=for-the-badge&logo=Excel&logoColor=61DAFB)
+![](https://img.shields.io/badge/MSExcel-20232A?style=for-the-badge&logo=Excel&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
