@@ -12,7 +12,6 @@ I'm a self-taught AI Engineer and Machine Learning Enthusiast who is passionate 
 - 🎓 &nbsp; I’m currently learning Python, Julia and R.
 - 🌱 &nbsp; Always Learning more about Object Detection Algorithms and Image Processing Techniques.
 - 👯 &nbsp; I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
-- 🎓 &nbsp; 2021 Goals: Master React, Complete Full Stack. Contribute to Open Source projects
 - ⚡ &nbsp; Fun fact: First solve the problem, then write the code :heart:.
 
 ## &#x1f4c8; My GitHub Stats
