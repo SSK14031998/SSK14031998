@@ -38,16 +38,12 @@ I'm a self-taught AI Engineer and Machine Learning Enthusiast who is passionate 
 ![](https://img.shields.io/badge/Excel-20232A?style=for-the-badge&logo=msexcel&logoColor=61DAFB)
 ![](https://img.shields.io/badge/C-38B2AC?style=for-the-badge&logo=C&logoColor=white)
 ![](https://img.shields.io/badge/C++-563D7C?style=for-the-badge&logo=C++&logoColor=white)
-![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-<a href="mailto:priyanvishnu15@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-priyanvishnu15@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:shankarselvam1998@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shankarselvam1998@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/vishnu-priyan0206/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-vishnu%priyan%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/_code_br_eaker_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_code_br_eaker_-blue?style=flat-square&logo=instagram"></a>
 
