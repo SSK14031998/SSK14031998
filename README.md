@@ -1,8 +1,8 @@
 ###
 
-<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=8803FC&size=24&lines=Hey+there,+I'm+Vishnupriyan;I'm+A+Software+Engineer.;Full-stack+Developer.;An+Open-Source+Enthusiast+!.;" alt="Typing SVG" >
+<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=8803FC&size=24&lines=Hey+there,+I'm+Shankar;I'm+an+AI+Engineer.;Data+Analyst.;An+Open-Source+Enthusiast+!.;" alt="Typing SVG" >
 
-<!-- <h2>  Hi there! 👋 I'm Vishnu Priyan.</h2> -->
+<!-- <h2>  Hi there! 👋 I'm Shankara Kumaran.</h2> -->
 
 I'm a self-taught Full stack developer and Machine Leaning who is passionate about writing code, solving problems, building React and Angular Applications.
 
