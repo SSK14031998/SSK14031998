@@ -38,9 +38,9 @@ I'm a self-taught AI Engineer and Machine Learning Enthusiast who is passionate 
 ![](https://img.shields.io/badge/Excel-20232A?style=for-the-badge&logo=msexcel&logoColor=61DAFB)
 ![](https://img.shields.io/badge/C-38B2AC?style=for-the-badge&logo=C&logoColor=white)
 ![](https://img.shields.io/badge/C++-563D7C?style=for-the-badge&logo=C++&logoColor=white)
-![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+<!--![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)--!>
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
